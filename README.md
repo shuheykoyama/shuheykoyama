@@ -6,7 +6,7 @@ I'm a software engineer specializing in human–computer interaction, based in J
 
 ## 🧰 &nbsp;My toolbox
 
-[![My toolbox](https://skillicons.dev/icons?i=python,ts,js,neovim,obsidian,astro,html,css,tailwindcss,figma,svelte,react,nextjs,bun,nodejs,git,github,docker,swift,c,java,rust,arduino,processing,p5js)](https://skillicons.dev)
+[![My toolbox](https://skillicons.dev/icons?i=python,ts,js,neovim,obsidian,astro,svelte,nextjs,html,css,tailwindcss,solidjs,react,p5js,figma,bun,nodejs,flutter,ruby,rails,git,github,docker,swift,c,rust,java,arduino,processing)](https://skillicons.dev)
 
 &nbsp;
 
@@ -14,4 +14,4 @@ I'm a software engineer specializing in human–computer interaction, based in J
 
 [![Shuhey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuheykoyama&show_icons=true&bg_color=151515&title_color=ffffff&text_color=f9f9f9&icon_color=ff6363&ring_color=ff6363&border_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<a rel="me" href="https://x.com/shuheykoyama">Follow me on X</a>
+👉 <a rel="me" href="https://x.com/shuheykoyama">Follow me on X</a>
