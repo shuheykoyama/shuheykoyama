@@ -1,6 +1,14 @@
-# 👋 &nbsp;Hi there!
+# 👋 &nbsp;Hi there
 
-I'm a software engineer specializing in human–computer interaction, based in Japan. I enjoy tinkering with environments where people create things using computers. I often tweak my dotfiles, Neovim configuration, and Obsidian setup to improve my work efficiency and motivation. I view this as a form of bonsai. I engage in a wide range of manufacturing, from hardware to software, including digital fabrication using 3D printers and laser cutters, electronics projects using Arduino, development of CLI tools in Rust, and building web applications and AI-integrated applications. Alongside my software development work, I also conduct research in the field of human-computer interaction at [the Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) at the University of Tsukuba.
+I'm a software engineer specializing in human–computer interaction, based in Japan.
+
+I enjoy tinkering with environments where people create things using computers.
+I often tweak my dotfiles, Neovim configuration, and Obsidian setup to improve my work efficiency and motivation.
+I view this as a form of bonsai.
+
+I engage in a wide range of manufacturing, from hardware to software, including digital fabrication using 3D printers and laser cutters, electronics projects using Arduino, development of CLI tools in Rust, and building web applications and AI-integrated applications.
+
+Alongside my software development work, I also conduct research in the field of human-computer interaction at [the Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) at the University of Tsukuba.
 
 &nbsp;
 
